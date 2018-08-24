@@ -1,0 +1,30 @@
+<div class="row">
+  <div class="column">
+    <div class="burgers">
+      {{#each burgers}} {{#unless devoured}} {{> burgers/burger-block }} {{/unless}} {{/each}}
+      </ul>
+    </div>
+  </div>
+
+  <div id="main" class="column">
+    <img src="/assets/img/Krabby_Patty.png" alt="">
+    <h2>Are you ready Kids!</h2>
+    <form id="addburger" class="button-size">
+      <textarea type="text" id="temp" name="burger"></textarea>
+
+      <button id="submit" type="submit">Submit!</button>
+    </form>
+  </div>
+
+  <div class="column">
+    <div class="burgers">
+      <ul>
+        {{#each burgers}} {{#if devoured}}
+        <ul>
+          {{id}} {{burger_name}}
+        </ul>
+        {{/if}} {{/each}}
+      </ul>
+    </div>
+  </div>
+</div>
