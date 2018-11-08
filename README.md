@@ -1,3 +1,3 @@
-# burger
+# Burger Time
 
-Have you ever wanted to pretend eat a burger? No? Well now's your chance!
+Burger Time is a full-stack app using Javascript and Handlebars templating on the front end and Node / Express js with MySQL / Sequelize for the back end. The app allows you to create burgers that are saved in the database and that can either be left for other people to devour (Select and delete) or eaten by your self!
