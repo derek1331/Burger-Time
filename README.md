@@ -5,10 +5,10 @@ Burger Time is a full-stack app using Javascript and Handlebars templating on th
 ## Built With
 
 * [Javascript](https://www.javascript.com/)
-* [Handlebars](https://nodejs.org/en/)
+* [Handlebars](https://handlebarsjs.com/)
 * [CSS](https://www.w3schools.com/css/)
-* [Node.js](https://code.visualstudio.com/)
-* [Express.js](https://www.javascript.com/)
-* [SQL](https://nodejs.org/en/)
-* [Sequelize](https://www.npmjs.com/package/twitter)
+* [Node.js](https://nodejs.org/en/)
+* [Express.js](https://expressjs.com/)
+* [MySQL](https://www.mysql.com/)
+* [Sequelize](http://sequelizejs.com/)
 * [Visual Studio Code](https://code.visualstudio.com/)
